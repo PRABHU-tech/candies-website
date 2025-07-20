@@ -4,7 +4,7 @@ Welcome to the official candy corner! This colorful and interactive web page is 
 
 ## 🌐 Live Demo
 
-🔗 [View the Website Live](https://your-username.github.io/candies-website)
+🔗 [View the Website Live](https://prabhu-tech.github.io/candies-website/)
 
 
 ## 📸 What’s Inside?
